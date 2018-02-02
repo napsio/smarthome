@@ -1,2 +1,16 @@
-# smarthome
-Some libraries listed
+# Protocols
+## Z-Wave
+- https://github.com/OpenZWave/node-openzwave-shared
+
+## ZigBee
+- https://github.com/zigbeer/zigbee-shepherd  
+
+# Devices
+## Samsung TV
+- https://github.com/TierFreund/Ips2rpc
+
+## Yeelight
+- http://www.yeelight.com/download/Yeelight_Inter-Operation_Spec.pdf
+
+## Aqara
+- https://github.com/AndrewLinden/xiaomi-zb2mqtt
