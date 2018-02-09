@@ -14,3 +14,6 @@
 
 ## Aqara
 - https://github.com/AndrewLinden/xiaomi-zb2mqtt
+
+## Xiaomi Flora
+- https://github.com/demirhanaydin/node-mi-flora
