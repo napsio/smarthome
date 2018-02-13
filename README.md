@@ -5,12 +5,12 @@
 ## ZigBee
 - https://github.com/zigbeer/zigbee-shepherd  
 
+## MiIO (Xiaomi)
+- https://github.com/aholstenson/miio
+
 # Devices
 ## Samsung TV
 - https://github.com/TierFreund/Ips2rpc
-
-## Xiaomi
-- https://github.com/aholstenson/miio
 
 ## Yeelight
 - http://www.yeelight.com/download/Yeelight_Inter-Operation_Spec.pdf
