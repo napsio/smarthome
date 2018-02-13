@@ -9,6 +9,9 @@
 ## Samsung TV
 - https://github.com/TierFreund/Ips2rpc
 
+## Xiaomi
+- https://github.com/aholstenson/miio
+
 ## Yeelight
 - http://www.yeelight.com/download/Yeelight_Inter-Operation_Spec.pdf
 
@@ -17,3 +20,4 @@
 
 ## Xiaomi Flora
 - https://github.com/demirhanaydin/node-mi-flora
+- https://github.com/open-homeautomation/miflora
