@@ -22,3 +22,30 @@
 ## Xiaomi Flora
 - https://github.com/demirhanaydin/node-mi-flora
 - https://github.com/open-homeautomation/miflora
+
+## Fitness Tracker (Xiaomi Mi Band)
+- https://github.com/Freeyourgadget/Gadgetbridge
+
+## Scales (Xiaomi Mi Scale)
+- https://github.com/oliexdev/openScale
+
+# Portals
+## 3D-Printer
+- https://github.com/foosel/OctoPrint
+
+# Home automation
+## Openhab 2
+- https://github.com/openhab/openhab-distro
+
+## Home-Assistant
+- https://github.com/home-assistant/home-assistant
+
+## Mozilla IoT Gateway
+- https://github.com/mozilla-iot/gateway
+
+# STT
+- https://github.com/mozilla/DeepSpeech
+
+# TTS
+- https://github.com/mozilla/TTS
+- https://github.com/marytts/marytts
