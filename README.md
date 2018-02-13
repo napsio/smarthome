@@ -8,6 +8,9 @@
 ## MiIO (Xiaomi)
 - https://github.com/aholstenson/miio
 
+## Bluetooth (BLE)
+- https://github.com/noble/noble
+
 # Devices
 ## Samsung TV
 - https://github.com/TierFreund/Ips2rpc
