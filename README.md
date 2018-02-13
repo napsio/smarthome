@@ -23,6 +23,9 @@
 - https://github.com/demirhanaydin/node-mi-flora
 - https://github.com/open-homeautomation/miflora
 
+## Xiaomi Vakuum
+- https://github.com/dgiese/dustcloud
+
 ## Fitness Tracker (Xiaomi Mi Band)
 - https://github.com/Freeyourgadget/Gadgetbridge
 
