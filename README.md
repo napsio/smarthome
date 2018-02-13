@@ -14,6 +14,7 @@
 
 ## Yeelight
 - http://www.yeelight.com/download/Yeelight_Inter-Operation_Spec.pdf
+- https://github.com/jamesblanksby/node-yeelight
 
 ## Aqara
 - https://github.com/AndrewLinden/xiaomi-zb2mqtt
