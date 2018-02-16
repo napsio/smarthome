@@ -11,6 +11,9 @@
 ## Bluetooth (BLE)
 - https://github.com/noble/noble
 
+## UPnP
+- https://github.com/futomi/node-upnp-utils
+
 # Devices
 ## Samsung TV
 - https://github.com/TierFreund/Ips2rpc
